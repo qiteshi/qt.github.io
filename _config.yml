@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://qiteshi.github.io/qt.github.io
-root: /qt.github.io/
+url: https://ahuuuua.github.io/ahua
+root: /ahua/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -99,6 +99,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:qiteshi/qt.github.io.git
+  repo: git@github.com:ahuuuua/ahua.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
